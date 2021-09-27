@@ -17,3 +17,8 @@ Content for Deployment
 ## How to Contribute
 
 Content for Contribute
+
+## Copyright
+
+2021 Copyright
+

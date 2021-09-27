@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Content for Introduction Section
+Content for Introduction Section(master), hello(myfeature)
 
 ## Purpose
 
